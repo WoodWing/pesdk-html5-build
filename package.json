@@ -21,9 +21,9 @@
   "author": "PhotoEditorSDK (img.ly GmbH) <contact@img.ly>",
   "license": "SEE LICENSE IN LICENSE.md",
   "peerDependencies": {
-    "react": "16.8.6",
-    "react-dom": "16.8.6",
-    "styled-components": "4.0.0"
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "styled-components": "4.4.1"
   },
   "scripts": {
     "publish:npm": "npm publish"
